@@ -1,0 +1,15 @@
+Sarah 275 85
+Micheal 234 5
+Andrew 205 74
+Alex 198 89
+Kari 184 82
+Louis 145 100
+Pat 112 12
+Cameron 97 13
+Nicholas 75 25
+Cassidy 35 16
+James 29 4
+Natalie 15 6
+Tommy 7 10
+Larry 2 6
+Samantha 1 12
